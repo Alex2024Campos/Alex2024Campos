@@ -7,7 +7,7 @@
 <br>
 <p align="left"> 
 <samp> 
-     Hi! I'm a 18y brazilian developer from SP. I enjoy developing games. 
+     Hi! I'm a 18y brazilian developer from SP. I enjoy developing games. 
 </samp>
 </p>
 
