@@ -7,7 +7,7 @@
 <br>
 <p align="left"> 
 <samp> 
-     Hi! I'm a 18y brazilian developer from SP. I enjoy developing games. This is the account with my high school projects.
+     Hi! I'm a 18y brazilian developer from SP. I enjoy developing games. This is the account with my high school projects - <strong> Etec Prof. Basilides de Godoy </strong>
 </samp>
 </p>
 
