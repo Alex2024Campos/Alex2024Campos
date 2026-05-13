@@ -5,10 +5,11 @@
 </a>
 
 <br>
-
-<samp align="left"> 
+<p align="left"> 
+<samp> 
      Hi! I'm a 18y brazilian developer from SP. I enjoy developing games. 
 </samp>
+</p>
 
 ### ⌨️ Languages
 <img src="https://img.shields.io/badge/C%23-512BD4?style=plastic&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/DML-FF6F00?style=plastic&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/DQL-4DB33D?style=plastic&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/DCL-336791?style=plastic&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black"/>
